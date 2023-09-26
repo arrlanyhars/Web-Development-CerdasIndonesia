@@ -7,6 +7,7 @@
  - Software Engineer: [Me](https://github.com/arrlanyhars)
  - UI/UX Designer: [Rindang](https://github.com/rindangchi)
  - Data Analytics Engineer: [Me](https://github.com/arrlanyhars), [Rindang](https://github.com/rindangchi)
+ - SEO Researcher: [Me](https://github.com/arrlanyhars)
 
 <h3>Tools</h3>
 
