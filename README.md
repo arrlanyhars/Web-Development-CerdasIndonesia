@@ -9,7 +9,11 @@
 
 <h3>Tools</h3>
 
- - Web Development: <a href="" target="" rel=""> <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt="" width="50" height="50"/> </a>
+ - Web Development:
+
+   <a href="" target="" rel=""> <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt="" width="50" height="50"/> </a> <a href="" target="" rel=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="" width="50" height="50"/> </a>
+   
+ - UI/UX Design:
 
 <h2>Product Details</h2>
 <h3>Background: Preparing for the CPNS</h3>
