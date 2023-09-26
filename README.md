@@ -21,7 +21,7 @@
    
  - Analytics:
 
-   <a href="" target="" rel=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Google_Analytics.svg/1200px-Logo_Google_Analytics.svg.png" alt="" width="100" height="50"/> </a>
+   <a href="" target="" rel=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Google_Analytics.svg/1200px-Logo_Google_Analytics.svg.png" alt="" width="120" height="50"/> </a>
 
 <h3>Product Link</h3>
 
