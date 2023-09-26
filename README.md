@@ -7,11 +7,16 @@ Our project, a comprehensive online platform, has been meticulously crafted to e
 
 <h2>Product Value</h2>
 
- - Extensive Question Bank
+ - Extensive Question Bank: Our collection encompasses a wide spectrum of logic and mathematics problems.
    
- - Focused Learning
+ - Focused Learning: We understand the nuances of the CPNS exam, and our questions are designed to hone the exact skills needed to excel in this assessment.
    
- - Detailed Solutions
+ - Detailed Solutions: Each question is accompanied by comprehensive solutions and explanations, facilitating a deeper understanding of the underlying concepts.
    
- - User-Friendly Interface
+ - User-Friendly Interface: Our platform's intuitive design ensures a seamless and engaging learning experience.
 
+<h2>Future Projects: Expanding Our Horizons</h2>
+
+ - BUMN Examinations Preparation: In line with our commitment to empowering job seekers, our next milestone includes the development of a dedicated section for preparing for examinations conducted by state-owned enterprises (BUMN). These exams encompass a wide array of fields, and our platform will provide tailored resources and practice materials to bolster the chances of securing employment within this vital sector of Indonesia's economy.
+ 
+ - UTBK Support for State University Admission: Beyond serving job seekers, we also recognize the aspirations of high school graduates seeking admission to state universities through the Computer-Based Writing Test (UTBK). To this end, we are actively working on a section dedicated to UTBK preparation. With a focus on various academic disciplines, our platform will provide aspiring university students with the tools they need to excel in this crucial examination and secure a place in their desired institutions.
