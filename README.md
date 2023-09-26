@@ -6,6 +6,7 @@
  - Project Manager: [Rindang](https://github.com/rindangchi)
  - Software Engineer: [Me](https://github.com/arrlanyhars)
  - UI/UX Designer: [Rindang](https://github.com/rindangchi)
+ - Data Analytics Engineer: [Me](https://github.com/arrlanyhars), [Rindang](https://github.com/rindangchi)
 
 <h3>Tools</h3>
 
@@ -19,8 +20,12 @@
    
  - Analytics:
 
-   <a href="" target="" rel=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Google_Analytics.svg/1200px-Logo_Google_Analytics.svg.png" alt="" width="50" height="50"/> </a>
-   
+   <a href="" target="" rel=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Google_Analytics.svg/1200px-Logo_Google_Analytics.svg.png" alt="" width="100" height="50"/> </a>
+
+<h3>Product Link</h3>
+
+https://insancerdasindonesia.com
+
 <h2>Product Details</h2>
 <h3>Background: Preparing for the CPNS</h3>
 In the dynamic landscape of career opportunities in Indonesia, CPNS stands as one of the pivotal gateway for aspiring job seekers. To conquer this competitive assessment and secure coveted government positions, meticulous preparation is indispensable.
