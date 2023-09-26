@@ -7,23 +7,23 @@
  - Software Engineer: [Me](https://github.com/arrlanyhars)
  - UI/UX Designer: [Rindang](https://github.com/rindangchi)
 
-<h2>Tools</h2>
+<h3>Tools</h3>
 
  - Web Development: <a href="" target="" rel=""> <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt="" width="50" height="50"/> </a>
 
-<h1>Product Details</h1>
-<h2>Background: Preparing for the CPNS</h2>
+<h2>Product Details</h2>
+<h3>Background: Preparing for the CPNS</h3>
 In the dynamic landscape of career opportunities in Indonesia, CPNS stands as one of the pivotal gateway for aspiring job seekers. To conquer this competitive assessment and secure coveted government positions, meticulous preparation is indispensable.
 
 Our project, a comprehensive online platform, has been meticulously crafted to empower Indonesian job seekers on their journey towards CPNS success. With a repository boasting more than 500 meticulously curated practice questions focusing on logic and mathematical aptitude, we've set out to become an invaluable resource in the pursuit of excellence.
 
-<h2>Problems</h2>
-<h2>User Persona</h2>
-<h2>Objective/Goals</h2>
-<h2>Success Metrics</h2>
-<h2>User Persona</h2>
-<h2>Design</h2>
-<h2>Product Value</h2>
+<h3>Problems</h3>
+<h3>User Persona</h3>
+<h3>Objective/Goals</h3>
+<h3>Success Metrics</h3>
+<h3>User Persona</h3>
+<h3>Design</h3>
+<h3>Product Value</h3>
 
  - Extensive Question Bank: Our collection encompasses a wide spectrum of logic and mathematics problems.
    
@@ -33,7 +33,7 @@ Our project, a comprehensive online platform, has been meticulously crafted to e
    
  - User-Friendly Interface: Our platform's intuitive design ensures a seamless and engaging learning experience.
 
-<h2>Future Projects: Expanding Our Horizons</h2>
+<h3>Future Projects: Expanding Our Horizons</h3>
 
  - BUMN Examinations Preparation: In line with our commitment to empowering job seekers, our next milestone includes the development of a dedicated section for preparing for examinations conducted by state-owned enterprises (BUMN). These exams encompass a wide array of fields, and our platform will provide tailored resources and practice materials to bolster the chances of securing employment within this vital sector of Indonesia's economy.
  
