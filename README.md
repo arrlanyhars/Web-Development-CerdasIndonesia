@@ -14,3 +14,9 @@ Our project, a comprehensive online platform, has been meticulously crafted to e
 <h2>Product Value</h2>
  - Extensive Question Bank
  - Focused Learning
+
+ Mostly:
+ - OS: MacOS, Windows, and Ubuntu
+ - SQL Database: Google Cloud BigQuery, PostgreSQL, MySQL, Microsoft SQL Server
+ - NoSQL Database: MongoDB
+ - Python - Data: Libraries for Data Science and Analytics (NumPy, Pandas, scikit-learn, Matplotlib, etc.), Spark
