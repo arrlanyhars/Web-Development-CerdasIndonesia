@@ -1,7 +1,7 @@
 # Web-Development-CerdasIndonesia
 
-<h1>Product Overview</h1>
-<h2>Contributors</h2>
+<h2>Product Overview</h2>
+<h3>Contributors</h3>
 
  - Project Manager: [Rindang](https://github.com/rindangchi)
  - Software Engineer: [Me](https://github.com/arrlanyhars)
