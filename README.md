@@ -11,10 +11,16 @@
 
  - Web Development:
 
-   <a href="" target="" rel=""> <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt="" width="50" height="50"/> </a> <a href="" target="" rel=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="" width="50" height="50"/> </a>
+   <a href="" target="" rel=""> <img src="https://s.w.org/style/images/about/WordPress-logotype-wmark.png" alt="" width="50" height="50"/> </a> <a href="" target="" rel=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png" alt="" width="40" height="50"/> </a>
    
  - UI/UX Design:
+   
+   <a href="" target="" rel=""> <img src="https://cdn2.downdetector.com/static/uploads/logo/figma2.png" alt="" width="50" height="50"/> </a>
+   
+ - Analytics:
 
+   <a href="" target="" rel=""> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Logo_Google_Analytics.svg/1200px-Logo_Google_Analytics.svg.png" alt="" width="50" height="50"/> </a>
+   
 <h2>Product Details</h2>
 <h3>Background: Preparing for the CPNS</h3>
 In the dynamic landscape of career opportunities in Indonesia, CPNS stands as one of the pivotal gateway for aspiring job seekers. To conquer this competitive assessment and secure coveted government positions, meticulous preparation is indispensable.
