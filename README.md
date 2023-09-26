@@ -11,3 +11,8 @@ Why Choose Our Platform:
 - Focused Learning
 - Detailed Solutions
 - User-Friendly Interface
+
+
+> Data Scraping:
+ - [Web Scraping Instagram with Python](https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4) 
+ - [Web Scraping (HTML parsing and JSON API) using Scrapy Python)](https://medium.com/analytics-vidhya/web-scraping-instagram-with-selenium-python-b8e77af32ad4)
