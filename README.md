@@ -4,10 +4,10 @@
 <h3>Contributors</h3>
 
  - Project Manager: [Rindang](https://github.com/rindangchi)
- - Software Engineer: [Me](https://github.com/arrlanyhars)
+ - Software Engineer: [Lani](https://github.com/arrlanyhars)
  - UI/UX Designer: [Rindang](https://github.com/rindangchi)
- - Data Analytics Engineer: [Me](https://github.com/arrlanyhars), [Rindang](https://github.com/rindangchi)
- - SEO Researcher: [Me](https://github.com/arrlanyhars)
+ - Data Analytics Engineer: [Lani](https://github.com/arrlanyhars), [Rindang](https://github.com/rindangchi)
+ - SEO Researcher: [Lani](https://github.com/arrlanyhars)
 
 <h3>Tools</h3>
 
