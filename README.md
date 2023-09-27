@@ -55,10 +55,6 @@ Provide a free comprehensive platform that can help people to study and prepare 
    
  - Total page view of the website : to measure whether users are interest or feel comfortable to explore the website further.
 
-<h3>Features</h3>
-
-
-
 
 <h3>Product Value</h3>
 
