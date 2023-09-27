@@ -34,10 +34,23 @@ In the dynamic landscape of career opportunities in Indonesia, CPNS stands as on
 Our project, a comprehensive online platform, has been meticulously crafted to empower Indonesian job seekers on their journey towards CPNS success. With a repository boasting more than 500 meticulously curated practice questions focusing on logic and mathematical aptitude, we've set out to become an invaluable resource in the pursuit of excellence.
 
 <h3>Problems</h3>
+
+- In preparing CPNS exam people do not have enough time to join courses or study in an exact structured way because most of them are currently working full time
+- Joining online courses or buying books for exam prepartion is not affordable for some people
+  
 <h3>User Persona</h3>
+Here we explain the target audiences and their personal profile who will consume our website
+
+
+
 <h3>Objective/Goals</h3>
+- Provide a comprehensive platform that can help people to study and prepare CPNS examination which can be accessed anytime and anywhere 
+- 
+
 <h3>Success Metrics</h3>
-<h3>User Persona</h3>
+- Number of user who access the website
+- Number of user 
+
 <h3>Design</h3>
 <h3>Product Value</h3>
 
