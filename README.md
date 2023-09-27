@@ -39,9 +39,12 @@ Our project, a comprehensive online platform, has been meticulously crafted to e
 - Joining online courses or buying books for exam prepartion is not affordable for some people, in the other hand most same website platforms currently ask people to pay if they want to access the full features.
   
 <h3>User Persona</h3>
+
 Here we explain the target audiences and their personal profile who will consume our website.
 
-  <a href="" target="" rel=""> <img src="https://github.com/arrlanyhars/Web-Development-CerdasIndonesia/assets/10241058/6beb44c5-7daf-4c22-a42d-7c686e1e76dc" alt="" width="500" height="700"/> </a>
+<br></br>
+
+  <a href="" target="" rel=""> <img src="https://github.com/arrlanyhars/Web-Development-CerdasIndonesia/assets/10241058/6beb44c5-7daf-4c22-a42d-7c686e1e76dc" alt="" width="500" height="600"/> </a>
 
 <h3>Objective/Goals</h3>
 
