@@ -35,8 +35,8 @@ Our project, a comprehensive online platform, has been meticulously crafted to e
 
 <h3>Problems</h3>
 
-- In preparing CPNS exam people do not have enough time to join courses or study in an exact structured way because most of them are currently working full time
-- Joining online courses or buying books for exam prepartion is not affordable for some people
+- In preparing CPNS exam people do not have enough time to join courses or study in an exact structured way because most of them are currently working full time.
+- Joining online courses or buying books for exam prepartion is not affordable for some people, in the other hand most same website platform currently ask people to pay if they want to access the full features.
   
 <h3>User Persona</h3>
 Here we explain the target audiences and their personal profile who will consume our website
@@ -44,13 +44,16 @@ Here we explain the target audiences and their personal profile who will consume
 
 
 <h3>Objective/Goals</h3>
-- Provide a comprehensive platform that can help people to study and prepare CPNS examination which can be accessed anytime and anywhere 
+
+Provide a free comprehensive platform that can help people to study and prepare CPNS examination which can be accessed anytime and anywhere.
 
 
 <h3>Success Metrics</h3>
-- Total page view of the website
 
-- Total user who access the website
+ - Total user who access the website : to measure how interest the users to access the website from search engine. 
+   
+ - Total page view of the website : to measure whether users are interest or feel comfortable to explore the website further.
+
 
 <h3>Design</h3>
 <h3>Product Value</h3>
