@@ -44,6 +44,8 @@ Here we explain the target audiences and their personal profile who will consume
 
 ![YES Website Persona](https://github.com/arrlanyhars/Web-Development-CerdasIndonesia/assets/10241058/6beb44c5-7daf-4c22-a42d-7c686e1e76dc)
 
+  <a href="" target="" rel=""> <img src="https://github.com/arrlanyhars/Web-Development-CerdasIndonesia/assets/10241058/6beb44c5-7daf-4c22-a42d-7c686e1e76dc" alt="" width="300" height="300"/> </a>
+
 <h3>Objective/Goals</h3>
 
 Provide a free comprehensive platform that can help people to study and prepare CPNS examination which can be accessed anytime and anywhere.
