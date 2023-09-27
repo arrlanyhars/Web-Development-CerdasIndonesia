@@ -44,7 +44,7 @@ Here we explain the target audiences and their personal profile who will consume
 
 <br></br>
 
-  <a href="" target="" rel=""> <img src="https://github.com/arrlanyhars/Web-Development-CerdasIndonesia/assets/10241058/6beb44c5-7daf-4c22-a42d-7c686e1e76dc" alt="" width="500" height="600"/> </a>
+  <a href="" target="" rel=""> <img src="https://github.com/arrlanyhars/Web-Development-CerdasIndonesia/assets/10241058/6beb44c5-7daf-4c22-a42d-7c686e1e76dc" alt="" width="600" height="600"/> </a>
 
 <h3>Objective/Goals</h3>
 
