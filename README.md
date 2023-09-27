@@ -45,11 +45,11 @@ Here we explain the target audiences and their personal profile who will consume
 
 <h3>Objective/Goals</h3>
 - Provide a comprehensive platform that can help people to study and prepare CPNS examination which can be accessed anytime and anywhere 
-- 
+
 
 <h3>Success Metrics</h3>
-- Number of user who access the website
-- Number of user 
+- Total page view of the website
+- Total user who access the website
 
 <h3>Design</h3>
 <h3>Product Value</h3>
