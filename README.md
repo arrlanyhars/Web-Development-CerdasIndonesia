@@ -41,7 +41,7 @@ Our project, a comprehensive online platform, has been meticulously crafted to e
 <h3>User Persona</h3>
 Here we explain the target audiences and their personal profile who will consume our website
 
-
+![YES Website Persona](https://github.com/arrlanyhars/Web-Development-CerdasIndonesia/assets/10241058/6beb44c5-7daf-4c22-a42d-7c686e1e76dc)
 
 <h3>Objective/Goals</h3>
 
@@ -54,8 +54,11 @@ Provide a free comprehensive platform that can help people to study and prepare 
    
  - Total page view of the website : to measure whether users are interest or feel comfortable to explore the website further.
 
+<h3>Features</h3>
 
-<h3>Design</h3>
+
+
+
 <h3>Product Value</h3>
 
  - Extensive Question Bank: Our collection encompasses a wide spectrum of logic and mathematics problems.
